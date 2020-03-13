@@ -5,8 +5,6 @@
 - Pipenv
 
 ## Setup
-- Git clone
-- `cd` into dir
 - `pipenv --three`
 - `pipenv install`
 - `pipenv run jupyter notebook`
