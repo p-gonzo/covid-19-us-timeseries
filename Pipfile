@@ -11,6 +11,9 @@ numpy = "*"
 pandas = "*"
 matplotlib = "*"
 appnope = "*"
+seaborn = "*"
+statsmodels = "*"
+scipy = "*"
 
 [requires]
 python_version = "3.7"
